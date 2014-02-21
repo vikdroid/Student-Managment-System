@@ -1,0 +1,26 @@
+body{
+ background:url(img/bg.png) repeat 0 0;
+  }
+.navbar .brand {padding: 0px 20px 0;font-size: 37px;color: black;}
+.topNav{padding: 0;border-bottom: 1px solid #CCC;background: #2c3e50;color:#fff;box-shadow: 0 0 3px #B1AFAF;}
+.topNav a{color:#fff; font-size:12px; font-weight:bold; display:inline-block;  padding:8px 4px;}
+.topNav a:hover, .topNav a.active{color:#fff; background:#07405f; text-decoration:none}
+.socialMedia .on, .socialMedia:hover .off{display:block}
+.socialMedia .off, .socialMedia:hover .on{display:none}
+.socialNw a{width:24px; height:24px; line-height:24px; display:inline-block; padding:3px; margin-top:3px; font-size:21px; border-radius:50%; background:#999; color:#fff; text-align:center; }
+.alignR{text-align:right;}
+#userdetail {
+    background:#000;
+    color: #fff;
+    /*width: 250px;*/
+    float: right;
+    margin: 4px;
+    padding: 4px;
+}
+.custom-header{
+  text-align: center;
+  padding: 3px;
+  background: #3276b1;
+  color: #fff;
+
+}
